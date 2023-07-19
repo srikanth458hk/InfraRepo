@@ -9,3 +9,4 @@ pipeline {
             terraform apply --auto-approve
             }
         }
+}
